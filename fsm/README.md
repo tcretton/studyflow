@@ -44,9 +44,14 @@ Anotações e exercícios do curso Fullstack Master do Devpleno.
 | DB         | css        |
 | etc        | javascript |
 
-_Backend:_ Regra de negócios, dados sensíveis. Processa pedidos do Frontend e envia Response.
+_Backend:_ Regra de negócios, dados sensíveis. Processa pedidos do Frontend e envia Response(HTML, Json /favicon.ico, /styles.css, /script).
 
-_Frontend:_ Dados públicos e UI. A comunicação sempre começa no Frontend, com uma requisição ao servidor.
+_Frontend:_ Dados públicos e UI. A comunicação sempre começa no Frontend, com uma requisição ao servidor, (GET/). Method POST, envia dados geralmente para alterar dados, informação nova. (PUT, DELETE, PATCH)
+
+
+
+
+
 
 ### First-steps
 
