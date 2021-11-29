@@ -1,7 +1,7 @@
 # Fullstack Master - Devpleno
 Anotações e exercícios do curso Fullstack Master do Devpleno.
-
-## Ferramentas & extensões
+## Módulo 3
+### Ferramentas & extensões
 - [Figma](https://www.figma.com) Planejar e prototipar, criar assets do projeto.
 - [CodeSandBox](https://codesandbox.io) 
 Testar e guardar snipets de código.
@@ -9,4 +9,7 @@ Testar e guardar snipets de código.
 - Ident-Rainbow (Extensão)
 - Bracket Pair Clorizer (Extensão)
 
-## First-steps
+### Projeto PalpiteBox
+[PalpiteBox - ](https://tcretton.github.io/PalpiteBox)
+
+### First-steps
