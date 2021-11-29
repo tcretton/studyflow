@@ -34,5 +34,29 @@ Anotações e exercícios do curso Fullstack Master do Devpleno.
   > Response podemos enviar qualquer coisa (html, JSON {Objeto js} , arquivos, dados)
   > Só exite response se houver um request anterior.
   > Response tem Header e Body, por exemplo no header informar que está sendo enviado um html, e dentro do body, vai o código html.
+- Fullstack (stack = pilha)
+
+|  Backend   | Frontend   |
+|------------|------------|
+| (Servidor) |(Cliente)   |
+| javascript | html       |
+| DB         | css        |
+| etc        | javascript |
+
+Javascript
+
 
 ### First-steps
+
+
+|------------|------|------|
+|------------|------|------|
+
+
+
+
+
+
+
+
+
