@@ -50,15 +50,30 @@ _Frontend:_ Dados públicos e UI. A comunicação sempre começa no Frontend, co
 
 #### HTML, CSS, JavaScript (Browser)
 >*HTML:* Marcação semantica, e chama estilos (.css) e scripts (JavaScript).
->*CSS:* Selecionar pela tag.
+>*CSS:* Selecionar pela tag é a forma mais genérica.
 ```
 h1 {
   color: red;
 }
 ```
-
-
-
+>Outra maneira é pela combinação de tags, formatar apenas h1 que estiver dentro de uma <div>
+```
+div h1 {
+  color: red;
+}
+```
+>A terceira maneira é criando classes, e identificando os elementos pelas classes.
+```
+.mainTitle {
+  color: red;
+}
+````
+>Também podemos selecionar um elemento pelo id.
+```
+#title {
+  color: red;
+}
+````
 
 
 
