@@ -22,12 +22,12 @@ Anotações e exercícios do curso Fullstack Master do Devpleno.
 ### Web Basics
 
 - Frontend
-  html, css, js
+  html, css, js;
 - Backend
-  php, js...
+  php, js;
 - DB
-  MySQL, MongoDB (js), Oracle....
-- Request(Frontend) - Response(Backend)
+  MySQL, MongoDB (js), Oracle;
+- Request (Frontend) - Response(Backend)
 
   > Request podemos enviar dados (ex: usuario e senha, arquivos).Uma Requisição request é composto de Header e Body
 
