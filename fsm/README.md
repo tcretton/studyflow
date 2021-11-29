@@ -27,7 +27,7 @@ Anotações e exercícios do curso Fullstack Master do Devpleno.
   php, js;
 - DB
   MySQL, MongoDB (js), Oracle;
-- Request (Frontend) - Response(Backend)
+#### Request (Frontend) - Response(Backend)
 
   > Request podemos enviar dados (ex: usuario e senha, arquivos).Uma Requisição request é composto de Header e Body
 
@@ -47,6 +47,16 @@ Anotações e exercícios do curso Fullstack Master do Devpleno.
 _Backend:_ Regra de negócios, dados sensíveis. Processa pedidos do Frontend e envia Response(HTML, Json /favicon.ico, /styles.css, /script).
 
 _Frontend:_ Dados públicos e UI. A comunicação sempre começa no Frontend, com uma requisição ao servidor, (GET/). Method POST, envia dados geralmente para alterar dados, informação nova. (PUT, DELETE, PATCH)
+
+#### HTML, CSS, JavaScript (Browser)
+>*HTML:* Marcação semantica, e chama estilos (.css) e scripts (JavaScript).
+>*CSS:* Selecionar pela tag.
+```
+h1 {
+  color: red;
+}
+```
+
 
 
 
