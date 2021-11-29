@@ -20,14 +20,19 @@ Anotações e exercícios do curso Fullstack Master do Devpleno.
 [PalpiteBox - ](https://github.com/tcretton/palpitebox)
 
 ### Web Basics
+
 - Frontend
-html, css, js
+  html, css, js
 - Backend
-php, js...
+  php, js...
 - DB
-MySQL, MongoDB (js), Oracle....
+  MySQL, MongoDB (js), Oracle....
 - Request(Frontend) - Response(Backend)
-No request, podemos enviar dados (usuario e senha, arquivos)
-No response podemos enviar qualquer coisa (html, JSON Objeto Js, arquivos, dados)
+
+  > Request podemos enviar dados (ex: usuario e senha, arquivos).Uma Requisição request é composto de Header e Body
+
+  > Response podemos enviar qualquer coisa (html, JSON {Objeto js} , arquivos, dados)
+  > Só exite response se houver um request anterior.
+  > Response tem Header e Body, por exemplo no header informar que está sendo enviado um html, e dentro do body, vai o código html.
 
 ### First-steps
