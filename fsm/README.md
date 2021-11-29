@@ -17,6 +17,6 @@ Anotações e exercícios do curso Fullstack Master do Devpleno.
 
 ### Projeto PalpiteBox
 
-[PalpiteBox - ](https://tcretton.github.io/PalpiteBox)
+[PalpiteBox - ](https://tcretton.github.io/palpitebox/)
 
 ### First-steps
