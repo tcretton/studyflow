@@ -27,13 +27,14 @@ Anotações e exercícios do curso Fullstack Master do Devpleno.
   php, js;
 - DB
   MySQL, MongoDB (js), Oracle;
+
 #### Request (Frontend) - Response(Backend)
 
-  > Request podemos enviar dados (ex: usuario e senha, arquivos).Uma Requisição request é composto de Header e Body
+> Request podemos enviar dados (ex: usuario e senha, arquivos).Uma Requisição request é composto de Header e Body
 
-  > Response podemos enviar qualquer coisa (html, JSON {Objeto js} , arquivos, dados)
-  > Só exite response se houver um request anterior.
-  > Response tem Header e Body, por exemplo no header informar que está sendo enviado um html, e dentro do body, vai o código html.
+> Response podemos enviar qualquer coisa (html, JSON {Objeto js} , arquivos, dados)
+> Só exite response se houver um request anterior.
+> Response tem Header e Body, por exemplo no header informar que está sendo enviado um html, e dentro do body, vai o código html.
 
 - Fullstack (stack = pilha)
 
@@ -49,34 +50,41 @@ _Backend:_ Regra de negócios, dados sensíveis. Processa pedidos do Frontend e 
 _Frontend:_ Dados públicos e UI. A comunicação sempre começa no Frontend, com uma requisição ao servidor, (GET/). Method POST, envia dados geralmente para alterar dados, informação nova. (PUT, DELETE, PATCH)
 
 #### HTML, CSS, JavaScript (Browser)
->*HTML:* Marcação semantica, e chama estilos (.css) e scripts (JavaScript).
->*CSS:* Selecionar pela tag é a forma mais genérica.
+
+> _HTML:_ Marcação semantica, e chama estilos (.css) e scripts (JavaScript).
+> _CSS:_ Selecionar pela tag é a forma mais genérica.
+
 ```
 h1 {
   color: red;
 }
 ```
->Outra maneira é pela combinação de tags, formatar apenas h1 que estiver dentro de uma <div>
+
+> Outra maneira é pela combinação de tags, formatar apenas h1 que estiver dentro de uma <div>
+
 ```
 div h1 {
   color: red;
 }
 ```
->A terceira maneira é criando classes, e identificando os elementos pelas classes.
+
+> A terceira maneira é criando classes, e identificando os elementos pelas classes.
+
 ```
 .mainTitle {
   color: red;
 }
-````
->Também podemos selecionar um elemento pelo id.
+```
+
+> Também podemos selecionar um elemento pelo id.
+
 ```
 #title {
   color: red;
 }
-````
+```
 
-
-
+#### Javascript Basics 01 - ECMAScript
 
 ### First-steps
 
