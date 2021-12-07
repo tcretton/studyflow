@@ -8,5 +8,6 @@
 - High Order Functions
 - High Order Functions
 - Assincronismo
-> Pilha pra executar tarefas que demoram mais
+> Empilhar as terefas no Event Loop, Pilha pra executar tarefas que demoram mais, ex tarefas que lidam com leitura e escrita de arquivos
+
 - Modulos
