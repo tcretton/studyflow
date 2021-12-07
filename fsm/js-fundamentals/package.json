@@ -1,0 +1,14 @@
+{
+  "name": "js-fundamentals",
+  "version": "1.0.0",
+  "description": "Exercícios Devpleno - JS - Fundamentals",
+  "main": "02-variaveis.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tércio Cretton",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
