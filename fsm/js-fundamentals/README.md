@@ -7,5 +7,6 @@
 - Functions
 - High Order Functions
 - High Order Functions
-- Assinc
+- Assincronismo
+> Pilha pra executar tarefas que demoram mais
 - Modulos
