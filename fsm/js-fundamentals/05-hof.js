@@ -1,7 +1,8 @@
 /* Fullstack Master - Devpleno - Tércio Cretton
 * High Order Functions - Title
 ! Alerta Alert
-
+? Question
+TODO: Refatorar código
 */
 
 const soma = (a, b) => a + b
