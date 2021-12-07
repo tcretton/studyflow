@@ -8,7 +8,6 @@ TODO: Refatorar código
 const soma = (a, b) => a + b
 const mult = (a, b) => a * b
 
-
 const calc = (op, a, b) => op(a,b)
 
 const selectOp = op => {
@@ -17,13 +16,9 @@ const selectOp = op => {
   }
 }
 
-
 const c = calc (selectOp('+'), 10, 5)
 console.log(c)
 
 const d = calc (selectOp('+'), 10, 5)
 
 console.log(d)
-
-
-
