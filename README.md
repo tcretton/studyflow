@@ -10,7 +10,7 @@ Anotações e exercícios do meu fluxo de estudo.
 - 
 
 ## Doing
--  [Fullstack Master - Devpleno](fsm/README.md) - Fullstack Master - 2%
+-  [Fullstack Master - Devpleno](fsm/README.md) - Fullstack Master - 3%
 
 ## To do
 - [hcode](hcode-/README.md)
