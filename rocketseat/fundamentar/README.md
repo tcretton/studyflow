@@ -44,58 +44,45 @@
 
 -
 
-## 12 -
+## 12 - Nem só de classes ou IDs
 
 -
 
-## 13 -
-
+## 13 - Alinhando os planetas
 -
 
-## 14 -
-
+## 14 - Pilotando com a DOM
 -
 
-## 15 -
-
+## 15 - Terminal
 -
 
-## 16 -
-
+## 16 - Node JS
 -
 
-## 17 -
-
+## 17 - Node + EJS
 -
 
-## 18 -
-
+## 18 - SQL
 -
 
-## 19 -
-
+## 19 - EStrutura de Dados
 -
 
-## 20 -
-
+## 20 - Programação Orientada a Objetos
 -
 
-## 21 -
-
+## 21 - Programação Funcional
 -
 
-## 22 -
-
+## 22 - Guia Estelar de Git
 -
 
-## 23 -
-
+## 23 - Guia Estelar de Github
 -
 
-## 24 -
-
+## 24 - Guia Estelar de HTTP
 -
 
-## 25 -
-
+## 25 - Maratona 01
 -
