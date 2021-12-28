@@ -7,7 +7,14 @@
 - 
 ## Uma caixa dentro da outra
 - 
-## 
+## Agora sim cores
+- 
+## Posso ver e ouvir HTML
+- 
+## Posicionando foguetes
+- 
+## App bonito até nos textos
 - 
 ## 
 - 
+## 
