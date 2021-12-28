@@ -5,7 +5,7 @@
 ## Guia estelar de programação
 - Funcionamento da WEB
 ## Computador, Software e Hardware
-- Conceitosd e Definiçoes
+- Conceitos e Definiçoes
 ## Internet, Roteadores e Servidores
 -
 ## Sistemas operacionais
