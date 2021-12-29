@@ -7,7 +7,7 @@
 ## Computador, Software e Hardware
 - Conceitos e Definiçoes
 ## Internet, Roteadores e Servidores
--
+- Conceitos e definições
 ## Sistemas operacionais
 -
 ## Tipos de Aplicações Web
