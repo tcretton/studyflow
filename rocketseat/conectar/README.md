@@ -1,4 +1,4 @@
-# Discover - Conectar (Trilha)
+# Discover - Trilha Conectar
 ## Ambiente Dev
 - terminal hyper
 - rocketseat terminal (blog)
