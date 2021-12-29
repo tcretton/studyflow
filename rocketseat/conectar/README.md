@@ -15,7 +15,7 @@
 
 ## Internet, Roteadores e Servidores
 
-- Conceitos e definições, IP e rotas
+- Conceitos e definições, IP, MAC, DNS, HTTP
 
 ## Sistemas operacionais
 
