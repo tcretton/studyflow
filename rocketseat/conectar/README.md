@@ -11,11 +11,11 @@
 
 ## Computador, Software e Hardware
 
-- Conceitos e Definiçoes
+- Conceitos e Definiçoes;
 
 ## Internet, Roteadores e Servidores
 
-- Conceitos e definições, IP, MAC, DNS, HTTP
+- Conceitos e definições, IP, MAC, DNS, HTTP;
 
 ## Sistemas operacionais
 
