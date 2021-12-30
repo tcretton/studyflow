@@ -21,6 +21,9 @@
 
 - Windows, Linux, Android e Mac OS
 - Interface, Homem X Máquina
+- UNIX (Linux, Android, OSX, IOS)
+- Windows (10,11, Server)
+- Interface GUI (Graphical User Interface) X CLI (Command-Line Interface)
 
 ## Tipos de Aplicações Web
 
