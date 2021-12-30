@@ -19,7 +19,7 @@
 
 ## 5 - Sistemas operacionais
 
--
+- Windows, Linux, Android e Mac OS
 
 ## Tipos de Aplicações Web
 
