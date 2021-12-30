@@ -24,6 +24,8 @@
 - UNIX (Linux, Android, OSX, IOS)
 - Windows (10,11, Server)
 - Interface GUI (Graphical User Interface) X CLI (Command-Line Interface)
+- Kernel, Gerenciador de processos, Gerenciador de Arquivos
+
 
 ## Tipos de Aplicações Web
 
