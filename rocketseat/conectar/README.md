@@ -20,6 +20,7 @@
 ## 5 - Sistemas operacionais
 
 - Windows, Linux, Android e Mac OS
+- Interface, Homem X Máquina
 
 ## Tipos de Aplicações Web
 
