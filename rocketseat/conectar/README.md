@@ -26,6 +26,7 @@
 - Interface GUI (Graphical User Interface) X CLI (Command-Line Interface)
 - Kernel, Gerenciador de processos, Gerenciador de Arquivos
 - Processo, processos em paralelos = Thread, para melhorar performance.
+- Sistema de arquivos (Fat, NTFS, EXT4...)
 
 ## Tipos de Aplicações Web
 
