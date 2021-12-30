@@ -25,7 +25,7 @@
 - Windows (10,11, Server)
 - Interface GUI (Graphical User Interface) X CLI (Command-Line Interface)
 - Kernel, Gerenciador de processos, Gerenciador de Arquivos
-
+- Processo, processos em paralelos = Thread, para melhorar performance.
 
 ## Tipos de Aplicações Web
 
