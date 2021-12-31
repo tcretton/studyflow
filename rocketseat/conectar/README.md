@@ -50,3 +50,4 @@
 Conhecer sintaxe da linguagem, e recursos. Algumas compiladas outras são interpretadas.
 
 Javascript, Python, PHP, Flutter
+Cada linguagem tem sua sintaxe simbolos especiais, e palavras reservadas.
