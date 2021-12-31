@@ -31,7 +31,9 @@
 
 ## Tipos de Aplicações Web
 
--
+- Sites estaticos
+- Sites dinamicos
+- Aplicação WEB Padrão X SPA
 
 ## Linguagem de Programação
 
