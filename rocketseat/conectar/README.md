@@ -44,8 +44,8 @@
 ## Linguagem de Programação
 
 - Low-level
->
+> Mais proxima a longuagem de maquina, mas é muito mais rápida e direta. Assembly
 - Hight-level
->
+> Mais proxima a comunicação humana, abstração e conceitos, objetos, condicionais.
 Conhecer sintaxe da linguagem, e recursos.
 Javascript, PHP, Flutter
