@@ -27,6 +27,7 @@
 - Kernel, Gerenciador de processos, Gerenciador de Arquivos
 - Processo, processos em paralelos = Thread, para melhorar performance.
 - Sistema de arquivos (Fat, NTFS, EXT4...)
+- Gerenciador de pacotes
 
 ## Tipos de Aplicações Web
 
