@@ -43,4 +43,9 @@
 
 ## Linguagem de Programação
 
--
+- Low-level
+>
+- Hight-level
+>
+Conhecer sintaxe da linguagem, e recursos.
+Javascript, PHP, Flutter
