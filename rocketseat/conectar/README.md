@@ -38,7 +38,7 @@
 > Back-end, onde estão as regras de negócio, e são tratados os dados.
 - Aplicação WEB Padrão X SPA
 > Aplicação Web Padrão - Recarrega toda a aplicação. (tudo é reenderizado html, css javascript)
-> Single page Aplication - Carrega apenas partes da aplicação. (O que preca ser alterado vem apenas texto, JSON)
+> Single page Aplication - Front-end e Back-end são aplicações separadas. Carrega apenas partes da aplicação. (O que preca ser alterado vem apenas texto no formato JSON)
 
 
 
