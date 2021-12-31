@@ -33,10 +33,14 @@
 
 - Sites estaticos
 - Sites dinamicos
-- Aplicação WEB Padrão X SPA
 - Front-end X Back-end
 > Front-end, onde o usuário interage, faz as resquisições e recebe as respostas.
 > Back-end, onde estão as regras de negócio, e são tratados os dados.
+- Aplicação WEB Padrão X SPA
+> Aplicação Web Padrão - Recarrega toda a aplicação. (tudo é reenderizado html, css javascript)
+> Single page Aplication - Carrega apenas partes da aplicação. (O que preca ser alterado vem apenas texto, JSON)
+
+
 
 ## Linguagem de Programação
 
