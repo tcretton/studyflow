@@ -1,7 +1,7 @@
 # Discover - Trilha Fundamentar
 
 ## Guia Estelar de HTML
--
+- Conceitos - 100%
 
 ## Guia Estelar de CSS
 -
