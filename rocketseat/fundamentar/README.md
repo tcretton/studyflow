@@ -9,6 +9,7 @@
 > li, sempre dentro de uma lista ordenada ou não ordenada. ol, ul.
 >Listas de descrição.
 >dl, dt, dd
+>div, span - EStrutura "como uma caixa genérica"
 
 ## Guia Estelar de CSS
 
