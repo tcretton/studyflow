@@ -5,6 +5,7 @@
 - Conceitos - 100%
 - HTML5 a semantica é fundamental, pra indexação.
 - Quais elementos descrevem melhor o significado do que estou escrevendo.
+> h1, h2, h3
 
 ## Guia Estelar de CSS
 
