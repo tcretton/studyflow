@@ -6,7 +6,7 @@
 - HTML5 a semantica é fundamental, pra indexação.
 - Quais elementos descrevem melhor o significado do que estou escrevendo.
 > h1, h2, h3
-> li, 
+> li, sempre dentro de uma lista ordenada ou não ordenada. ol, ul.
 
 ## Guia Estelar de CSS
 
