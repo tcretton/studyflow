@@ -12,7 +12,7 @@
 ### Elementos Genéricos
 >div, span - EStrutura "como uma caixa genérica"
 ### Links
-> <A>
+> &lt;A&gt; #fragmento, target, download
 
 ## Guia Estelar de CSS
 
