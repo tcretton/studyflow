@@ -13,6 +13,9 @@
 >div, span - EStrutura "como uma caixa genérica"
 ### Links
 > &lt;A&gt; #fragmento, target, download
+> &lt;href&gt; colocar links e hiper texto
+> Dentro do href, podemos colocar outras tags.
+
 
 ## Guia Estelar de CSS
 
