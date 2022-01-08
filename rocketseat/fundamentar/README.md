@@ -19,6 +19,9 @@
 > . volta pra raiz
 > / entra em um diretório.
 > https:// define caminho absoluto
+### Tabelas
+>&lt; &gt;
+
 
 ## Guia Estelar de CSS
 
