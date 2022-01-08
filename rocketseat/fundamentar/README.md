@@ -18,7 +18,7 @@
 > .. volta uma pasta
 > . volta pra raiz
 > / entra em um diretório.
-
+> https:// define caminho absoluto
 
 ## Guia Estelar de CSS
 
