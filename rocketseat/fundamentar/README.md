@@ -15,6 +15,9 @@
 > &lt;A&gt; #fragmento, target, download
 > &lt;href&gt; colocar links e hiper texto
 > Dentro do href, podemos colocar outras tags.
+> .. volta uma pasta
+> . volta pra raiz
+> / entra em um diretório.
 
 
 ## Guia Estelar de CSS
