@@ -10,3 +10,5 @@
 > Empilhar as terefas no Event Loop, Pilha pra executar tarefas que demoram mais, ex tarefas que lidam com leitura e escrita de arquivos
 
 ## 08 - Módulos
+## 09 - Hoocks
+> JSX - Modo de descrever tela, uso de hoocks, (useState, useEffect), "gancho" para reenderizar tela.
