@@ -4,7 +4,7 @@
 > Anotações e Desafios do curso [Android Basics: User Interface](https://classroom.udacity.com/courses/ud834), do [Udacity](https://classroom.udacity.com/courses/ud834)
 
 ## **Construindo layouts - Parte 1**
+
 Textview, Imageview
 
-
-Concluído: ??
+Concluído: Aula 2
