@@ -7,4 +7,11 @@
 
 Textview, Imageview
 
+## **Construindo layouts - Parte 2**
+
+ViewGroups
+ViewGroups Type
+Layout Linear
+Largura & Altura
+Espaçando uniformemente view filhas
 Concluído: Aula 2
