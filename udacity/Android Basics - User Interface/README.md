@@ -15,7 +15,6 @@ Anotações e Desafios do curso [Android Basics: User Interface](https://classro
 - Layout Linear
 - Largura & Altura
 - Espaçando uniformemente view filhas
-
-Concluído: Aula 2
+- Concluído: Aula 2
 
 >
