@@ -15,8 +15,10 @@ Anotações e Desafios do curso [Android Basics: User Interface](https://classro
 - Layout Linear
 - Largura & Altura
 - Espaçando uniformemente view filhas
+- Peso do layout
+  - weithr
   - layout_height="match_parent"
-  - 
+  -
 - Concluído: Aula 2
 
 >
