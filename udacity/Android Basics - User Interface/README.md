@@ -16,7 +16,8 @@ Anotações e Desafios do curso [Android Basics: User Interface](https://classro
 - Largura & Altura
 - Espaçando uniformemente view filhas
 - Peso do layout
-  - weithr
+  - weigth peso, vc define o peso e divide proporcionalmente pra cada opção.
+  
   - layout_height="match_parent"
   -
 - Concluído: Aula 2
