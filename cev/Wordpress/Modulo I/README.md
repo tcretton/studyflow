@@ -5,9 +5,9 @@
   > Aula 15 - Menus
 
   Menus, 
-  
+
   > Aula 25 - Página de Contato com formulário - incluir formulário WPForms. Usar bloco reutilizavel. Colocar Mapa.
   
-  > Aula 26 - Posts no WordPress
+  > Aula 26 - Posts no WordPress - Categorias de Post para separar os post. As tags criam subcategorias e ajudam a criar filtros (receitas - categoria, tags saladas, entradas, carnes, Frutos do Mar, etc)
   
   > Aula 27 - Páginas de Notícia
