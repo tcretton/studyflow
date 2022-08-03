@@ -1,3 +1,5 @@
+_[Resultado Final - Esperado](https://www.cursoemvideo.com/cursowp/manual/)_
+
 - [Introdução - 6 Aulas](https://cursoemvideo.com/)
 - [Instalação - 5 Aulas](https://cursoemvideo.com/)
 - [Configuração - 2 Aulas](https://cursoemvideo.com/)
