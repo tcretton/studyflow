@@ -47,7 +47,8 @@ Favicon = 512 x 512
 ### 16 (Parte B) - Topo & Rodapé
 
 Construtor de Rodapé
-Tipografia base e Cores
+Tipografia base fontes e tamanhos h1, h2, h3, h4, h5, h6
+Paleta de Cores
 
 ### 10 -
 
