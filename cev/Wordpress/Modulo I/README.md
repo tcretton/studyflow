@@ -35,9 +35,16 @@
 
 ### 9 -
 
+## Criando Sites Profissionais (22 Aulas)
+
 ### 10 -
 
-## Criando Sites Profissionais (22 Aulas)
+### 16 (Parte A) - Topo & Rodapé
+
+Personaizar Cabeçalho opções do Astra
+Favicon = 512 x 512
+
+### 10 -
 
 ### 21 -
 
