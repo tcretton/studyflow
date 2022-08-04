@@ -44,6 +44,10 @@
 Personaizar Cabeçalho opções do Astra
 Favicon = 512 x 512
 
+### 16 (Parte B) - Topo & Rodapé
+
+Construtor de Rodapé
+
 ### 10 -
 
 ### 21 -
