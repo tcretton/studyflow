@@ -50,7 +50,15 @@ Construtor de Rodapé
 Tipografia base fontes e tamanhos h1, h2, h3, h4, h5, h6
 Paleta de Cores
 
-### 10 -
+### 17 -
+
+### 17 -
+
+### 17 -
+
+### 17 -
+
+### 17 -
 
 ### 21 -
 
