@@ -8,5 +8,4 @@ Eles estão presentes em nossa vida.
 COnjunto de passos e intruções pra tratar um problema ou cumprir uma tarefa.
 
 ## Primeiro Algoritimo
-
 teste
