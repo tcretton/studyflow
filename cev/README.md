@@ -10,7 +10,7 @@
 - [Linux Mint - 40 Horas](https://cursoemvideo.com/) - 100%
 - [Marketing Digital - 40 Horas](https://cursoemvideo.com/) - 10%
 - [Photoshop - 20 Horas](https://cursoemvideo.com/) - 11%
-- [Algoritmo -40 Horas](https://cursoemvideo.com/) - 0%
+- [Algoritmo -40 Horas](https://cursoemvideo.com/) - 5%
 - [Algoritmo -40 Horas](https://cursoemvideo.com/) - 0%
 - [Algoritmo -40 Horas](https://cursoemvideo.com/) - 0%
 - [Algoritmo -40 Horas](https://cursoemvideo.com/) - 0%
