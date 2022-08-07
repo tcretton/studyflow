@@ -1,11 +1,12 @@
 #### [cursoemvideo.com](https://www.cursoemvideo.com/course/)
 
-# Algoritimo - (16 Aulas)
+# Algoritimo - (15 Aulas)
 
-## Introdução (3 Aulas)
+## Introdução a Algoritimos
 
-teste
+Eles estão presentes em nossa vida.
+COnjunto de passos e intruções pra tratar um problema ou cumprir uma tarefa.
 
-### História
+## Primeiro Algoritimo
 
 teste
