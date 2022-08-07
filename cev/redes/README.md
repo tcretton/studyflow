@@ -1,6 +1,6 @@
 #### [cursoemvideo.com](https://www.cursoemvideo.com/course/)
 
-# Algoritimo - (16 Aulas)
+# Redes - (16 Aulas)
 
 ## Introdução (3 Aulas)
 
