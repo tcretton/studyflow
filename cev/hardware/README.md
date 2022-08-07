@@ -6,15 +6,15 @@
 
 ### Como vai ser o curso
 
-### Mitos & Verdades
+### Definindo os recursos do PC
 
-### Ferramentas uteis para desenvolvimento
+### Como será o nosso PC
 
-| Aplicação      | Descrição                                                                                |
-| :------------- | :--------------------------------------------------------------------------------------- |
-| FileZilla      | Ferramenta cliente FTP para transferir arquivos para o seu servidor.                     |
-| Putty          | Ferramenta de SSH para acesso remoto ao seu servidor.                                    |
-| ColorZilla     | Ferramenta para capturar cores em sites. Muito útil para manter a identidade de um site. |
-| Fontface Ninja | Ferramenta para identificar fontes usadas em sites.                                      |
-| Notepad ++     | Editor de código bem leve e eficiente, incluindo um cliente FTP (Plugin).                |
-| XAMPP          | Pacote que inclui o Apache + MySql / MariaDB, PHP e o PHPmyAdmin.                        |
+| Aplicação      | Descrição                                                                |
+| :------------- | :----------------------------------------------------------------------- |
+| FileZilla      | Cliente FTP para transferir arquivos para o seu servidor.                |
+| Putty          | SSH para acesso remoto ao seu servidor.                                  |
+| ColorZilla     | Capturar cores em sites. Muito útil para manter a identidade de um site. |
+| Fontface Ninja | Identificar fontes usadas em sites.                                      |
+| Notepad ++     | Editor de código leve e eficiente, incluindo um cliente FTP (Plugin).    |
+| XAMPP          | Pacote que inclui o Apache + MySql / MariaDB, PHP e o PHPmyAdmin.        |
