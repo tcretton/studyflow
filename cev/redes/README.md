@@ -1,11 +1,25 @@
 #### [cursoemvideo.com](https://www.cursoemvideo.com/course/)
 
-# Redes - (16 Aulas)
+# Redes - (35 Aulas)
 
-## Introdução (3 Aulas)
+## Introdução (4 Aulas)
 
-teste
+## Entendendo as redes de computadores (3 Aulas)
 
-### História
+## Endereçamento de IP (2 Aulas)
+
+## Configurando uma rede WI-FI (3 Aulas)
+
+## Cálculo de Sub-Redes (1 Aula)
+
+## Cabos de rede na prática (3 Aulas)
+
+### Cabos de Rede e seus detalhes - Aula 13
+
+### Montando cabo UTP - Aula 14
+
+### Tomadas de Superfície - Aula 15
+
+Anotações
 
 teste
