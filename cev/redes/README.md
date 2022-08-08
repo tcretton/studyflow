@@ -19,6 +19,11 @@
 ### Montando cabo UTP - Aula 14
 
 ### Tomadas de Superfície - Aula 15
+Enrrolar cabo dá interferencia, geralmente os cabos quebram, praticidade do cabo na parede
+Instalação, menor manutenção.
+> Furukawa
+
+> Soho
 
 Anotações
 
