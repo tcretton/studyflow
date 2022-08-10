@@ -8,10 +8,11 @@
 - [Wordpress - Modulo I - 40 Horas](https://cursoemvideo.com/) - 82%
 - [Redes de Computadores - 20 Horas](https://cursoemvideo.com/) - 62%
 - [Linux Mint - 40 Horas](https://cursoemvideo.com/) - 100%
+- [Hardware - 20 Horas](https://cursoemvideo.com/) - 0%
 - [Marketing Digital - 40 Horas](https://cursoemvideo.com/) - 10%
 - [Photoshop - 20 Horas](https://cursoemvideo.com/) - 11%
 - [Algoritmo - 40 Horas](https://cursoemvideo.com/) - 5%
-- [Hardware - 20 Horas](https://cursoemvideo.com/) - 0%
+
 - []()
 - [Algoritmo -40 Horas](https://cursoemvideo.com/) - 0%
 - [Algoritmo -40 Horas](https://cursoemvideo.com/) - 0%
