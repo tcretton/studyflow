@@ -13,8 +13,8 @@
 - [Photoshop - 20 Horas](https://cursoemvideo.com/) - 11%
 - [Word -40 Horas](https://cursoemvideo.com/) - 0%
 - [HTML5 - 40 Horas](https://cursoemvideo.com/) - 5%
-- [Algoritmo -40 Horas](https://cursoemvideo.com/) - 11
-  %
+- [Algoritmo -40 Horas](https://cursoemvideo.com/) - 11%
+
 - []()
 
 - [Algoritmo -40 Horas](https://cursoemvideo.com/) - 0%
