@@ -6,7 +6,7 @@
 - [Mautic -20 Horas](https://cursoemvideo.com/) - 0%
 - [Raspberry Pi - 40 Horas](https://cursoemvideo.com/) - 100%
 - [Wordpress - Modulo I - 40 Horas](https://cursoemvideo.com/) - 82%
-- [Redes de Computadores - 20 Horas](https://cursoemvideo.com/) - 62%
+- [Redes de Computadores - 20 Horas](https://cursoemvideo.com/) - 68%
 - [Linux Mint - 40 Horas](https://cursoemvideo.com/) - 100%
 - [Hardware - 20 Horas](https://cursoemvideo.com/) - 0%
 - [Marketing Digital - 40 Horas](https://cursoemvideo.com/) - 10%
