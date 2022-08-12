@@ -30,13 +30,14 @@ Instalação, menor manutenção.
 ## Controle de acesso
 
 ### Como bloquear invasores no meu WI-FI ? - Aula 16
+
 - App Android (Fing - Mostra info dos dispositivos)
 - Filtrar por MAC
 - Roteador com senha
 - Bloquear usuário
 - Limitar velocidade
-Anotações
-teste
+  Anotações
+  teste
 
 ## Plantão tira dúvidas
 
