@@ -48,5 +48,4 @@ Instalação, menor manutenção.
 ### Jáviu um roteador profissional por dentro ?
 
 ## Simulador de redes
-
 - Packet Tracer - Simulador de redes
