@@ -52,3 +52,7 @@ Instalação, menor manutenção.
 - Packet Tracer - Simulador de redes
 
 ### Criando uma rede única usando WDS
+
+- Roteadores na mesma rede
+- desabilitar dhcp no slave
+-
