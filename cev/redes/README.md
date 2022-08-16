@@ -53,6 +53,7 @@ Instalação, menor manutenção.
 
 ### Criando uma rede única usando WDS
 
-- Roteadores na mesma rede
+- IP master (Sugestão primeiro ip 192.168.1.1)
+- Roteadores na mesma rede (Segundo na ultimo ip da rede 192.168.1.254)
+- fixar ip no computador pra configurar o segundo roteador
 - desabilitar dhcp no slave
--
