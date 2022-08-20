@@ -103,31 +103,18 @@ Categorias de Post para separar os post. As tags criam subcategorias e ajudam a 
 
 > Dica de Plugins: Simple LightBox; Post Types Order; Post Expirator;
 
-### 27 - Página de Notícia
+### 27 - Páginas de Notícia
 
-### 28 -
+Post Grid, ALvenaria, Timeline
+Taxonomia = Filtragem dos Posts
 
-### 29 -
+### 28 - Páginas Internas
 
-### 30 -
+### 29 - Responsividade com Wordpress
+
+### 30 - Modelos do Astra
 
 ### 31 -
-
-### 32 -
-
-### 34 -
-
-### 35 -
-
-### 36 -
-
-### 37 -
-
-### 38 -
-
-### 39 -
-
-### 40 -
 
 ```javascript
 Este é um exemplo de linha de código.
