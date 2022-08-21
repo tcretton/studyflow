@@ -114,7 +114,13 @@ Revisão de uso e configuração dos blocos utilizados nas páginas principais.
 
 ### 29 - Responsividade com Wordpress
 
-### 30 - Modelos do Astra
+Microthemer, alterações pontuais.
+Olhar em celulares e fazer ajustes.
+
+## 30 - Modelos do Astra
+
+wpastra.com
+escolhe o editor e depois veos modelos disponíveis.
 
 ### 31 -
 
