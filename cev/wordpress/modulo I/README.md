@@ -110,6 +110,8 @@ Taxonomia = Filtragem dos Posts
 
 ### 28 - Páginas Internas
 
+Revisão de uso e configuração dos blocos utilizados nas páginas principais.
+
 ### 29 - Responsividade com Wordpress
 
 ### 30 - Modelos do Astra
