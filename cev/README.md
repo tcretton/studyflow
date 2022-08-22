@@ -5,7 +5,7 @@
 - [Git & GitHub - 20 Horas](https://cursoemvideo.com/) - 100%
 - [Mautic -20 Horas](https://cursoemvideo.com/) - 0%
 - [Raspberry Pi - 40 Horas](https://cursoemvideo.com/) - 100%
-- [Wordpress - Modulo I - 40 Horas](https://cursoemvideo.com/) - 82%
+- [Wordpress - Modulo I - 40 Horas](https://cursoemvideo.com/) - 92%
 - [Redes de Computadores - 20 Horas](https://cursoemvideo.com/) - 100%
 - [Linux Mint - 40 Horas](https://cursoemvideo.com/) - 100%
 - [Hardware - 20 Horas](https://cursoemvideo.com/) - 0%

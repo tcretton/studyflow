@@ -121,6 +121,7 @@ Olhar em celulares e fazer ajustes.
 
 wpastra.com
 escolhe o editor e depois veos modelos disponíveis.
+aumentar o timeout
 
 ### 31 -
 
