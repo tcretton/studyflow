@@ -1,5 +1,5 @@
 #### [cursoemvideo.com](https://www.cursoemvideo.com/course/) _[Resultado Final - Esperado](https://www.cursoemvideo.com/cursowp/manual/)_
 
-# Wordpress - Módulo 1 (40 Aulas)
+# Wordpress - Módulo II (40 Aulas)
 
-## Introdução (3 Aulas)
+## Segurança Performance e recursos avançados (11 Aulas)
