@@ -3,3 +3,5 @@
 # Wordpress - Módulo II (40 Aulas)
 
 ## Segurança Performance e recursos avançados (11 Aulas)
+
+### Por q aprender Marketing Digital
