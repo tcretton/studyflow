@@ -19,6 +19,9 @@ Troca - É nessa situação, que o marketing pode te ajudar
 
 ### Aula 5 – Estratégia, matriz SWOT e UVP
 
+SWOT
+UVP
+
 ### Aula 6 – Os 4P’s do Marketing
 
 ### Aula 7 – Relacionamento com Clientes
