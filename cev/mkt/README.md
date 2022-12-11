@@ -27,13 +27,14 @@ Qual o caminho, para chegar ao cliente, criando valor esperado e construindo fid
 - Qual a proposta de valor ?
 - Quais os passos para chegar até lá ?
 
-Ambiente Macro - GRande e distante e vc não tem controle
+Ambiente Macro - Grande e distante e vc não tem controle
 Ambiente Micro - Menor proximo de vc e vc tem algum controle
+Ambiente Interno - Dentro da empresa, padroes e processos internos vc tem total controle.
 
 
 Para fazer a estratégia defina os objetivos
-  SWOT - Forças Fraquezas, Oportunidades,
-  UVP
+SWOT - Forças Fraquezas, Oportunidades,
+UVP
 
 ### Aula 6 – Os 4P’s do Marketing
 
