@@ -19,8 +19,21 @@ Troca - É nessa situação, que o marketing pode te ajudar
 
 ### Aula 5 – Estratégia, matriz SWOT e UVP
 
-SWOT
-UVP
+Planejamento de marketing:
+Qual o caminho, para chegar ao cliente, criando valor esperado e construindo fidelidade.
+
+- Quais são os principais objetivos ?
+- Defina o mercado alvo, qual o perfil do meu cliente ?
+- Qual a proposta de valor ?
+- Quais os passos para chegar até lá ?
+
+Ambiente Macro - GRande e distante e vc não tem controle
+Ambiente Micro - Menor proximo de vc e vc tem algum controle
+
+
+Para fazer a estratégia defina os objetivos
+  SWOT - Forças Fraquezas, Oportunidades,
+  UVP
 
 ### Aula 6 – Os 4P’s do Marketing
 
