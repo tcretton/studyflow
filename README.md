@@ -22,6 +22,7 @@ Anotações e exercícios do meu fluxo de estudo.
 - [Algoritmo - 40 Horas](https://cursoemvideo.com/) - 11%
 - [Curso HTML5 e CSS3: módulo 1 - 40 HORAS](https://cursoemvideo.com/) - 53%
 - [Wordpress - Modulo I - 40 Horas](https://cursoemvideo.com/) - 82%
+- [MDN - ](https://developer.mozilla.org/pt-BR/docs/Learn) - %
 
 ## To do
 
