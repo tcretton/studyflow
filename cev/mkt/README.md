@@ -37,6 +37,16 @@ SWOT - Forças Fraquezas, Oportunidades,
 UVP
 
 ### Aula 6 – Os 4P’s do Marketing
+P- Produto - Product
+P- Preço - Price
+P- Praça - Placement
+P- 
+
+1- Entender necessidades
+2- Elaborar estratégia
+3- Programa de Marketing
+4- Construir Relacionamento
+5- Capturar Valor
 
 ### Aula 7 – Relacionamento com Clientes
 
