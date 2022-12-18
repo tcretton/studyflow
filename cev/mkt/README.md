@@ -31,16 +31,16 @@ Ambiente Macro - Grande e distante e vc não tem controle
 Ambiente Micro - Menor proximo de vc e vc tem algum controle
 Ambiente Interno - Dentro da empresa, padroes e processos internos vc tem total controle.
 
-
 Para fazer a estratégia defina os objetivos
 SWOT - Forças Fraquezas, Oportunidades,
 UVP
 
 ### Aula 6 – Os 4P’s do Marketing
+
 P- Produto - Product
 P- Preço - Price
 P- Praça - Placement
-P- 
+P-
 
 1- Entender necessidades
 2- Elaborar estratégia
@@ -49,6 +49,13 @@ P-
 5- Capturar Valor
 
 ### Aula 7 – Relacionamento com Clientes
+
+Construiur Relacionamento
+Tipos de clientes:
+Estranho - Margem baixa, pouca fidelidade
+Borboleta - Margem mais alta, pouca fidelidade
+Marisco - Alta Fidelidade, pouca lucratividade
+Cliente Amigo - Alta lucratividade, boa fidelidade (Hóspede ideal)
 
 ### Aula 8 – Primeiros passos
 
