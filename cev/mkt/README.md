@@ -68,8 +68,11 @@ Preferencia a OpenSource
 ### Aula 9 – Marketing de Conteúdo – Parte 1
 
 O Marketing de Conteúdo, aproxima seu cliente do seu produto/serviço e cria uma sensação de segurança e melhora o relacionamento entre sua marca e o público-alvo.
+"Conteudo envolvente, compartilhavel, focado em ajudar."
 
 Inbound Marketing são estratégias modernas para conquistar novos clientes, gerar mais vendas e criar maior autoridade.
+
+Outbound Marketing
 
 Veja também a diferença entre inbound marketing e outbound marketing.
 
