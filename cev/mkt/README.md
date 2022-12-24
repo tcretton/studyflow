@@ -72,7 +72,7 @@ O Marketing de Conteúdo, aproxima seu cliente do seu produto/serviço e cria um
 
 Inbound Marketing são estratégias modernas para conquistar novos clientes, gerar mais vendas e criar maior autoridade.
 
-Outbound Marketing
+Outbound Marketing - Discurso (Panfletos)
 
 Veja também a diferença entre inbound marketing e outbound marketing.
 
