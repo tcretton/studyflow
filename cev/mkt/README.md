@@ -21,16 +21,13 @@ Troca - É nessa situação, que o marketing pode te ajudar
 
 Planejamento de marketing:
 Qual o caminho, para chegar ao cliente, criando valor esperado e construindo fidelidade.
-
 - Quais são os principais objetivos ?
 - Defina o mercado alvo, qual o perfil do meu cliente ?
 - Qual a proposta de valor ?
 - Quais os passos para chegar até lá ?
-
 Ambiente Macro - Grande e distante e vc não tem controle
 Ambiente Micro - Menor proximo de vc e vc tem algum controle
 Ambiente Interno - Dentro da empresa, padroes e processos internos vc tem total controle.
-
 Para fazer a estratégia defina os objetivos
 SWOT - Forças Fraquezas, Oportunidades,
 UVP
@@ -58,11 +55,23 @@ Marisco - Alta Fidelidade, pouca lucratividade
 Cliente Amigo - Alta lucratividade, boa fidelidade (Hóspede ideal)
 
 ### Aula 8 – Primeiros passos
+- Marketiung Digital
+    Conteudo
+    Busca
+    Ads
+    Realcionamento com clientes
+    Acompanhamento de isso tudo
 
-Site Mautic CRM (Suggar)
+Site, blog, Mautic, CRM (Suggar)
 Preferencia a OpenSource
 
 ### Aula 9 – Marketing de Conteúdo – Parte 1
+
+O Marketing de Conteúdo, aproxima seu cliente do seu produto/serviço e cria uma sensação de segurança e melhora o relacionamento entre sua marca e o público-alvo.
+
+Inbound Marketing são estratégias modernas para conquistar novos clientes, gerar mais vendas e criar maior autoridade.
+
+Veja também a diferença entre inbound marketing e outbound marketing.
 
 ### Aula 10 – Marketing de Conteúdo – Parte 2
 
