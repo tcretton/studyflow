@@ -59,6 +59,9 @@ Cliente Amigo - Alta lucratividade, boa fidelidade (Hóspede ideal)
 
 ### Aula 8 – Primeiros passos
 
+Site Mautic CRM (Suggar)
+Preferencia a OpenSource
+
 ### Aula 9 – Marketing de Conteúdo – Parte 1
 
 ### Aula 10 – Marketing de Conteúdo – Parte 2
