@@ -31,10 +31,20 @@ Ambiente Macro - Grande e distante e vc não tem controle
 Ambiente Micro - Menor proximo de vc e vc tem algum controle
 Ambiente Interno - Dentro da empresa, padroes e processos internos vc tem total controle.
 
+Analise e crie a matriz SWOT
+Strenghts - Forças
+Weaknesses - Fraquezas
+Opportunities - Opotunidades
+Threats - Ameaças
 
 Para fazer a estratégia defina os objetivos
-SWOT - Forças Fraquezas, Oportunidades,
-UVP
+SWOT - Forças X Fraquezas, Oportunidades X Ameaças
+UVP - Proposta unica de valor
+Proposta de Valor: A melhor máquina de dirigir - BMW
+Te mostrar a musica certa para cada humor e cada momento - Spotify
+
+Em qual mercado vamos competir ?
+Quais os atributos que definem meu produto ?
 
 ### Aula 6 – Os 4P’s do Marketing
 
