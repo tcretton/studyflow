@@ -100,6 +100,8 @@ Persona
 ### Aula 12 – Formatos do Marketing de Conteúdo – Parte 1
 
 ## Blog Post
+## Wiki
+## Faq
 ## E-Book
 ## 
 
