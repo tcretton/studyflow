@@ -18,7 +18,7 @@ Anotações e exercícios do meu fluxo de estudo.
 ## Doing
 
 - [Fullstack Master - Devpleno](fsm/README.md) - Fullstack Master - 3%
-- [Marketing Digital - 40 Horas](https://cursoemvideo.com/) - 21%
+- [Marketing Digital - 40 Horas](https://cursoemvideo.com/) - 42%
 - [Photoshop - 20 Horas](https://cursoemvideo.com/) - 11%
 - [HTML5 - 40 Horas](https://cursoemvideo.com/) - 5%
 - [Algoritmo - 40 Horas](https://cursoemvideo.com/) - 11%
