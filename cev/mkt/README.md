@@ -99,6 +99,10 @@ Persona
 
 ### Aula 12 – Formatos do Marketing de Conteúdo – Parte 1
 
+## Blog Post
+## E-Book
+## 
+
 ### Aula 13 – Formatos do Marketing de Conteúdo – Parte 2
 
 ### Aula 14 – 10 dicas de Marketing de Conteúdo

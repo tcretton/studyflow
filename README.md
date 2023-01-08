@@ -27,7 +27,7 @@ Anotações e exercícios do meu fluxo de estudo.
 
 ## To do
 
-- [hcode](hcode-/README.md) - hcode
+- [hcode](hcode-/README.md) - 0%
 - [Hardware - 20 Horas](https://cursoemvideo.com/) - 0%
 - [Mautic -20 Horas](https://cursoemvideo.com/) - 0%
 - [Word -40 Horas](https://cursoemvideo.com/) - 0%
