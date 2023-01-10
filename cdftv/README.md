@@ -4,8 +4,7 @@
 
 GitHub Actions
 
-Para config github actions usamos o arquivo: _/.github/workflows/main.yml_ 
-
+Para config github actions usamos o arquivo: _/.github/workflows/main.yml_
 
 ```
 on:
@@ -26,12 +25,14 @@ jobs:
           server: ${{ secrets.ftp_host }}
           username: ${{ secrets.ftp_user }}
           password: ${{ secrets.ftp_password }}
-          server-dir: public_html/         
+          server-dir: public_html/
 ```
-Vriar as secrets para esconder os dados de acesso ao host
 
+Criar as secrets para esconder os dados de acesso ao host
+FTP_HOST
+FTP_USER
+FTP_PASSWORD
 
 ## Browser-Sync
 
 [browser-sync start -f . --server]
-
