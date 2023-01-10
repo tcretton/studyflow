@@ -4,9 +4,9 @@
 
 GitHub Actions
 
-Para config github actions usamos o seguinte arquivo:
+Para config github actions usamos o arquivo: _/.github/workflows/main.yml_ 
 
-/.github/workflows/main.yml
+
 ```
 on:
   push:
