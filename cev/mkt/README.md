@@ -108,8 +108,10 @@ Persona
 
 ## Aula 13 – Formatos do Marketing de Conteúdo – Parte 2
 
-### Formatos de Imagens e Vídeo
+### Formatos de Imagens, Vídeo & Outros
 #### Podcast & Vídeo
+#### SMS & What´s App
+#### Games & Aplicativos
 
 ### Aula 14 – 10 dicas de Marketing de Conteúdo
 
