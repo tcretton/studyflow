@@ -100,20 +100,50 @@ Persona
 ## Aula 12 – Formatos do Marketing de Conteúdo – Parte 1
 
 ### Formatos de Texto
+
 #### Blog Post
+
 #### Wiki
+
 #### Faq
+
 #### E-Book
-#### 
+
+####
 
 ## Aula 13 – Formatos do Marketing de Conteúdo – Parte 2
 
 ### Formatos de Imagens, Vídeo & Outros
+
 #### Podcast & Vídeo
+
 #### SMS & What´s App
+
 #### Games & Aplicativos
 
 ### Aula 14 – 10 dicas de Marketing de Conteúdo
+
+#### 1 -
+
+#### 2 -
+
+#### 3 -
+
+#### 4 -
+
+#### 5 -
+
+#### 6 -
+
+#### 7 -
+
+#### 8 -
+
+#### 9 - Automação de Marketing
+
+Mautic
+
+#### 10 -
 
 ## Glossário (7 Aulas)
 
