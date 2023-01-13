@@ -4,20 +4,20 @@
 
 ## Aulas (14 Aulas)
 
-### Aula 0 – Por que aprender Marketing?
+## Aula 0 – Por que aprender Marketing?
 
-### Aula 1 – O Processo de Marketing
+## Aula 1 – O Processo de Marketing
 
-### Aula 2 – Necessidade, Desejo e Demanda
+## Aula 2 – Necessidade, Desejo e Demanda
 
-### Aula 3 – Produtos, Serviços e Experiências
+## Aula 3 – Produtos, Serviços e Experiências
 
-### Aula 4 – Trocas, Relacionamentos e Mercados
+## Aula 4 – Trocas, Relacionamentos e Mercados
 
 Autoprodução, Coerção, Súplica &
 Troca - É nessa situação, que o marketing pode te ajudar
 
-### Aula 5 – Estratégia, matriz SWOT e UVP
+## Aula 5 – Estratégia, matriz SWOT e UVP
 
 Planejamento de marketing:
 Qual o caminho, para chegar ao cliente, criando valor esperado e construindo fidelidade.
@@ -46,7 +46,7 @@ Te mostrar a musica certa para cada humor e cada momento - Spotify
 Em qual mercado vamos competir ?
 Quais os atributos que definem meu produto ?
 
-### Aula 6 – Os 4P’s do Marketing
+## Aula 6 – Os 4P’s do Marketing
 
 P- Produto - Product
 P- Preço - Price
@@ -59,7 +59,7 @@ P-
 4- Construir Relacionamento
 5- Capturar Valor
 
-### Aula 7 – Relacionamento com Clientes
+## Aula 7 – Relacionamento com Clientes
 
 Construiur Relacionamento
 Tipos de clientes:
@@ -68,7 +68,7 @@ Borboleta - Margem mais alta, pouca fidelidade
 Marisco - Alta Fidelidade, pouca lucratividade
 Cliente Amigo - Alta lucratividade, boa fidelidade (Hóspede ideal)
 
-### Aula 8 – Primeiros passos
+## Aula 8 – Primeiros passos
 
 - Marketiung Digital
   Conteudo
@@ -80,7 +80,7 @@ Cliente Amigo - Alta lucratividade, boa fidelidade (Hóspede ideal)
 Site, blog, Mautic, CRM (Suggar)
 Preferencia a OpenSource
 
-### Aula 9 – Marketing de Conteúdo – Parte 1
+## Aula 9 – Marketing de Conteúdo – Parte 1
 
 O Marketing de Conteúdo, aproxima seu cliente do seu produto/serviço e cria uma sensação de segurança e melhora o relacionamento entre sua marca e o público-alvo.
 "Conteudo envolvente, compartilhavel, focado em ajudar."
@@ -91,21 +91,25 @@ Outbound Marketing - Discurso (Panfletos)
 
 Veja também a diferença entre inbound marketing e outbound marketing.
 
-### Aula 10 – Marketing de Conteúdo – Parte 2
+## Aula 10 – Marketing de Conteúdo – Parte 2
 
-### Aula 11 – Marketing de Conteúdo – Parte 3
+## Aula 11 – Marketing de Conteúdo – Parte 3
 
 Persona
 
-### Aula 12 – Formatos do Marketing de Conteúdo – Parte 1
+## Aula 12 – Formatos do Marketing de Conteúdo – Parte 1
 
-## Blog Post
-## Wiki
-## Faq
-## E-Book
-## 
+### Formatos de Texto
+#### Blog Post
+#### Wiki
+#### Faq
+#### E-Book
+#### 
 
-### Aula 13 – Formatos do Marketing de Conteúdo – Parte 2
+## Aula 13 – Formatos do Marketing de Conteúdo – Parte 2
+
+### Formatos de Imagens e Vídeo
+#### Podcast & Vídeo
 
 ### Aula 14 – 10 dicas de Marketing de Conteúdo
 
