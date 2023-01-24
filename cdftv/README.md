@@ -1,17 +1,18 @@
-# Antações Mão no código
+# CDFTV - Mão no código
 
-## GITHUB ACTIONS em Hospedagem Compartilhada
+### GITHUB ACTIONS em Hospedagem Compartilhada
 
 GitHub Actions
 
 Para config github actions usamos o arquivo: _/.github/workflows/main.yml_
+Neste arquivo, informamos a ação que a ação Push no Branch main dá inicio a tarefa Deploy site on push
 
 ```
 on:
   push:
     branches:
       - main
-name: 🚀 Deploy website on push
+name: 🚀 Deploy Site on push
 jobs:
   web-deploy:
     name: 🎉 Deploy
