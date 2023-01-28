@@ -12,7 +12,7 @@ Anotações e exercícios do meu fluxo de estudo.
 - [Adequando sites e lojas virtuais à LGPD](https://cursoemvideo.com/) - 100%
 - [Redes de Computadores - 20 Horas](cev/redes/README.md) - 100%
 - [Wordpress - Modulo I - 40 Horas](https://cursoemvideo.com/) - 100%
-- [PHP Moderno - Módulo I](https://cursoemvideo.com/) - 77%
+- [PHP Moderno - Módulo I](https://cursoemvideo.com/) - 94%
 - []() - 0%
 
 ## Doing
