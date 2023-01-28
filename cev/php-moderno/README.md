@@ -3,3 +3,4 @@
 Xamp
 ## Configurações VSCODE
 
+### Extensões
