@@ -1,6 +1,7 @@
 # PHP Moderno
 
 Xamp
-## Configurações VSCODE
 
-### Extensões
+## Extensões VSCODE
+
+###
