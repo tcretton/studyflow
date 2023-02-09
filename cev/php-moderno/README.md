@@ -10,3 +10,5 @@ php
 <?  ?> - Short OpenTag
 
 ### Configuração do php.ini
+
+### Constantes & Variaveis
