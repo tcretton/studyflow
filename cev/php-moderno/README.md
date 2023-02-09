@@ -9,4 +9,4 @@ php
 <?php    ?> - SuperTag
 <?  ?> - Short OpenTag
 
-### 
+### Configuração do php.ini
