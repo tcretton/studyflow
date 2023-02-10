@@ -23,3 +23,10 @@ Regras para nomes de identificadores:
 5 - Aceita caracteres especiais, como á, ç
 6 - A linguagem é case sensitive em relação aos nomes
 7 - Nomes especiais como $this são palavras reservadas
+
+Recomendações para nomes de variaveis
+- Defina um padrão e siga em todo o projeto (minusculas variareis, MAIUSCULAS constantes, camel case snakecase)
+$nomeCompletoCliente = "CamelCase"
+$telefone_contato_fornecedor = "Snake Case"
+
+- 
