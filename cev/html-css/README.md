@@ -8,10 +8,14 @@
 
 ### Imagens
 
-Guardar
+Sugest]ao de Resolução:
+
 1200px - Background
+
 650px - Artigos e meio do site
+
 200px - logo pequeno
+
 
 ### Icone de Favoritos (favicon)
 
