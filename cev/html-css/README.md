@@ -8,7 +8,7 @@
 
 ### Imagens
 
-Sugest]ao de Resolução:
+Sugestão de Resoluções:
 
 1200px - Background
 
