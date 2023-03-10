@@ -1,5 +1,5 @@
 # HTML5 & CSS3 Essentials
-##
+## Visão Geral
 ## - Responsabilidade de cada linguagem
 HTML5 - Marcação da página, paragrafo, titulos
 CSS3 - Estilização dos elementos, tamanho cores, posicionamento
@@ -18,6 +18,12 @@ PHP - Controlar o fluxo de informações, laços, banco de dados.
   </body>
 </html>
 ````
+## Iniciando com HTML5
+- Servindo tags para conteúdo
+- Servindo tags para conteúdo parte 2
+- Servindo tags semanticas
+- Servindo tags para midias
+
 
 1 - DevTools Essentials
 2 - HTML5 e CSS3 Essentials
