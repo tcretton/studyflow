@@ -23,6 +23,11 @@ PHP - Controlar o fluxo de informações, laços, banco de dados.
 - Servindo tags para conteúdo parte 2
 - Servindo tags semanticas
 - Servindo tags para midias
+- Servindo tags para formulários
+- Servindo tags para formulários pt2
+- Servindo tags para formulários propriedades
+- Servido tags de fora pra dentro
+## Marcando conteúdo
 
 
 1 - DevTools Essentials
