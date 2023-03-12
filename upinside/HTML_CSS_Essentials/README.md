@@ -19,11 +19,11 @@ PHP - Controlar o fluxo de informações, laços, banco de dados.
 </html>
 ````
 ## Iniciando com HTML5
-- Servindo tags para conteúdo
-- Servindo tags para conteúdo parte 2
-- Servindo tags semanticas
-- Servindo tags para midias
-- Servindo tags para formulários
+- Servindo tags para conteúdo - OK
+- Servindo tags para conteúdo parte 2 - OK
+- Servindo tags semanticas - OK
+- Servindo tags para midias - OK
+- Servindo tags para formulários - OK
 - Servindo tags para formulários pt2
 - Servindo tags para formulários propriedades
 - Servido tags de fora pra dentro
