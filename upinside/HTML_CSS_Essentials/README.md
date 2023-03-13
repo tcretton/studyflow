@@ -28,7 +28,15 @@ PHP - Controlar o fluxo de informações, laços, banco de dados.
 - Servindo tags para formulários propriedades - OK
 - Servido tags de fora pra dentro - OK
 ## Marcando conteúdo
-
+- Iniciando o projeto prático - OK
+- Marcação de topo e primeira dobra - OK
+- Marcação de Optin
+- Marcação da dobra [Curso]
+- Marcação da dobra [Reviews]
+- Marcação da dobra [A Escola]
+- Marcação da dobra [Tutor]
+- Marcação de CTA + Rodapé
+- Validação da página
 
 1 - DevTools Essentials
 2 - HTML5 e CSS3 Essentials
