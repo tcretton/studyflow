@@ -25,8 +25,8 @@ PHP - Controlar o fluxo de informações, laços, banco de dados.
 - Servindo tags para midias - OK
 - Servindo tags para formulários - OK
 - Servindo tags para formulários pt2 - OK
-- Servindo tags para formulários propriedades
-- Servido tags de fora pra dentro
+- Servindo tags para formulários propriedades - OK
+- Servido tags de fora pra dentro - OK
 ## Marcando conteúdo
 
 

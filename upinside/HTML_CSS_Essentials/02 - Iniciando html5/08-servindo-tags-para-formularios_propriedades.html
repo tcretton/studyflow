@@ -11,17 +11,29 @@
     <form>
       <fieldset>
         <legend>Formulário:</legend>
-        <p>Insira seu nome: <input type="text"></p>
-        <p>Insira seu e-mail: <input type="email"></p>
-        <p>Insira sua senha: <input type="password"></p>
         <p>
-          Insira o sexo:<br>
+          Atributo required
+        </p>
+        <p>
+          Nome: <input type="text" required placeholder="Insira seu nome"  readonly="">
+        </p>
+        <p>
+          CPF: <input type="text" required placeholder="000.000.000-00" pattern="\d{3}\.\d{3}\.\d{3}-\d{2}">
+        </p>
+        <p>
+          E-mail: <input type="email" required="" placeholder="Seu melhor e-mail">
+        </p>
+        <p>
+          Senha: <input type="password" required="required" placeholder="Senha segura">
+        </p>
+        <p>
+          Sexo:<br>
           <input type="radio" name="sexo">Masculino<br>
           <input type="radio" name="sexo">Feminino<br>
         </p>
         <p>
           Informe a sua tecnologia preferida:<br>
-          <input type="checkbox">HTML 5<br>
+          <input type="checkbox" checked>HTML 5<br>
           <input type="checkbox">CSS 3<br>
           <input type="checkbox">PHP<br>
           <input type="checkbox">jQuery<br>
