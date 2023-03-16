@@ -30,6 +30,7 @@ PHP - Controlar o fluxo de informações, laços, banco de dados.
 ## Marcando conteúdo
 - Iniciando o projeto prático - OK
 - Marcação de topo e primeira dobra - OK
+- Marcação de sessão de artigos - OK
 - Marcação de Optin
 - Marcação da dobra [Curso]
 - Marcação da dobra [Reviews]
