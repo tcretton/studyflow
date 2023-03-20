@@ -17,7 +17,7 @@ Anotações e exercícios do meu fluxo de estudo.
 
 ## Doing
 
-- [Upinside - HTML5 e CSS3 Essentials](upinside/HTML_CSS_Essentials/README.md) - Upinside - HTML5 e CSS3 Essentials - 28%
+- [Upinside - HTML5 e CSS3 Essentials](upinside/HTML_CSS_Essentials/README.md) - Upinside - HTML5 e CSS3 Essentials - 29%
 - [Fullstack Master - Devpleno](fsm/README.md) - Fullstack Master - 3%
 - [Marketing Digital - 40 Horas](https://cursoemvideo.com/) - 53%
 - [Photoshop - 20 Horas](https://cursoemvideo.com/) - 11%

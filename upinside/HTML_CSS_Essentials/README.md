@@ -34,7 +34,7 @@ PHP - Controlar o fluxo de informações, laços, banco de dados.
 - Marcação de Optin - OK
 - Marcação da dobra [Curso] - OK
 - Marcação da dobra [Reviews] - OK
-- Marcação da dobra [A Escola]
+- Marcação da dobra [A Escola] - 
 - Marcação da dobra [Tutor]
 - Marcação de CTA + Rodapé
 - Validação da página
