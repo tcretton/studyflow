@@ -35,8 +35,8 @@ PHP - Controlar o fluxo de informações, laços, banco de dados.
 - Marcação da dobra [Curso] - OK
 - Marcação da dobra [Reviews] - OK
 - Marcação da dobra [A Escola] - OK
-- Marcação da dobra [Tutor] - 
-- Marcação de CTA + Rodapé
+- Marcação da dobra [Tutor] - OK
+- Marcação de CTA + Rodapé - 
 - Validação da página
 
 1 - DevTools Essentials
