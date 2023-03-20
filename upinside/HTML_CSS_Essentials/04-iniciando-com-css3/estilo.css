@@ -1,0 +1,31 @@
+/*
+! SINTAXE CSS3:
+identificador seletor {
+  propriedade: valor;
+}
+! INDENTIFICADORES:
+. = classe
+# = ID
+Seletores são os elementos do HTML (p h1 h1) ou nome da classe/id
+! PROPRIEDADES:
+color, text-align, border, font-weight
+*/
+
+.main_blog {
+  width: 800px;
+  background-color: #ccc;
+  padding: 40px;
+  margin: 0 auto;
+}
+
+.main_blog article {
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+  margin: 20px 0;
+
+}
+
+.main_blog article h3 {
+  color: crimson !important;
+}

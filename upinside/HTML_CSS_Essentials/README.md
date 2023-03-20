@@ -39,7 +39,10 @@ PHP - Controlar o fluxo de informações, laços, banco de dados.
 - Marcação de CTA + Rodapé - OK
 - Validação da página - OK
 ## Iniciando com CSS3
-- Sua folha de estilos
+- Sua folha de estilos - ok
+- Web Fluida - 
+- CSS Orientado a Objetos - 
+- Criação de Boot CSS - 
 ## Estilizando Projeto Prático
 
 1 - DevTools Essentials
