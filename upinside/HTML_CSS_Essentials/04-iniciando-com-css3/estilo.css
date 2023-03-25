@@ -12,7 +12,8 @@ color, text-align, border, font-weight
 */
 
 .main_blog {
-  width: 800px;
+  max-width: calc(1000px - 80px);
+  width: calc(96% -80px);
   background-color: #ccc;
   padding: 40px;
   margin: 0 auto;
@@ -28,4 +29,8 @@ color, text-align, border, font-weight
 
 .main_blog article h3 {
   color: crimson !important;
+}
+
+.main_blog article p {
+  font-size: 18px;
 }
