@@ -8,7 +8,7 @@ identificador seletor {
 # = ID
 Seletores são os elementos do HTML (p h1 h1) ou nome da classe/id
 ! PROPRIEDADES:
-color, text-align, border, font-weight
+color, text-align, border, font-weight.......etc
 */
 
 .main_blog {
@@ -41,9 +41,18 @@ color, text-align, border, font-weight
 }
 
 .main_blog article p {
-  font-size: 1.1em;
+  font-size: 1em;
 }
 
+.title_medium_red {
+  color:red;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+
+
+/*Query de media, para fazer layout diferente em determinada resolução*/
 @media(max-width: 640px){
   .main_blog article {
     flex-basis: calc(100% - 40px - 20px);
