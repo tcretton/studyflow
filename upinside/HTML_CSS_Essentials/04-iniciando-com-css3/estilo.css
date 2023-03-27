@@ -24,7 +24,7 @@ color, text-align, border, font-weight.......etc
 
 .main_blog header{
   flex-basis: 100%;
-  background-color: aqua;
+  background-color: ;
 }
 
 .main_blog article {
@@ -41,13 +41,14 @@ color, text-align, border, font-weight.......etc
 }
 
 .main_blog article p {
-  font-size: 1em;
+  font-size: 1.1em;
 }
 
-.title_medium_red {
-  color:red;
-  font-size: 1.2em;
+.title_medium_lightgrey {
+  color:#ccc;
+  font-size: 1.4em;
   font-weight: bold;
+  text-decoration: underline;
 }
 
 
