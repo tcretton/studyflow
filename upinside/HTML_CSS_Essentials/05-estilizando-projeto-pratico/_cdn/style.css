@@ -1,0 +1,10 @@
+.main_header {
+  width: 100%;
+  background-color: #2D3142;
+
+}
+
+.main_header_content {
+  max-width: 1300px;
+  margin: 0 auto;
+}
