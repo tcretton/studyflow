@@ -14,9 +14,11 @@ Escrever as rotinas detalhadamente
   começe de um ponto mais generico, com numeros e depois detalhe mais os passos.
 
 - Estudar ou praia
-  1 - Ver previsaõ do tempo
-  2 - Se fizer sol
+1 - Ver previsaõ do tempo
+2 - Se fizer sol
   vou a praia
-  se não
+ se não
   vou estudar
-  3 - almoçar
+3 - almoçar
+4 - Ver televisao
+5 - Dormir
